@@ -1,0 +1,5 @@
+/home/annahri/Projects/TBG/TBG_InventorySys/TBG_InventorySys/bin/Debug/TBG_InventorySys.exe
+/home/annahri/Projects/TBG/TBG_InventorySys/TBG_InventorySys/bin/Debug/TBG_InventorySys.pdb
+/home/annahri/Projects/TBG/TBG_InventorySys/TBG_InventorySys/obj/x86/Debug/TBG_InventorySys.csproj.CoreCompileInputs.cache
+/home/annahri/Projects/TBG/TBG_InventorySys/TBG_InventorySys/obj/x86/Debug/TBG_InventorySys.exe
+/home/annahri/Projects/TBG/TBG_InventorySys/TBG_InventorySys/obj/x86/Debug/TBG_InventorySys.pdb
